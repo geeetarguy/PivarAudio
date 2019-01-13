@@ -1,23 +1,22 @@
 ---
 title: About
 date: 2017-11-01 03:00:00 +0000
-banner_image: "/uploads/2018/02/17/college-building.jpg"
-heading: About Belkirk
-sub_heading: Ora et Labora
+banner_image: "/uploads/2019/01/13/ZMH-Icon_180x180.png"
+heading: Pivar Audio
+sub_heading: Musical Audio Apps
 layout: landing-page
-textline: A multidisciplinary centre of experts who are essential to patient-oriented
-  research.
+textline: Zen Musical Harmonizer ZMH-1 for iOS in the App Store.
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
 menu:
-  navigation:
-    identifier: _about
-    weight: 2
   footer:
     identifier: _about
     weight: 3
+  navigation:
+    identifier: _about
+    weight: 2
+
 ---
+Pivar Audio is a musical audio company, specializing in effects for creativity, currently for iOS. The company is a result of me, Jonathan Pivar, lifelong fascination with sound and musical instruments. I served in the Navy as a Sonar Technician. I was fortunate to receive very good training in electronics and this helped me to learn to code after over a decade experimenting with instruments and effects.
 
-The Belkirk College of Engineering (Belkirk) specializes in innovative research to support the healthcare and biotech industries. We are interested in advancing research in areas that are pressing and relevant to the health and biotech industries and regularly develop new projects and collaborations to accomplish this goal. We are currently engaged in a variety of ongoing projects within the areas of mental health, data analysis, knowledge translation, and cluster research.
-
-Students at Belkirk get to learn from leaders in the biotech industy, as well as get access to cutting edge projects and technologies to further their learning endeavours.
+The result of my obsession with tones came as Zen Musical Harmonizer, ZMH-1. I engineered it while studying programming. It has four different takes on the classic Pitch Shifting effect. It was an absolute blast to test and sounds pretty cool on guitar. I had many fun jams with the range of possibilities. 
