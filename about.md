@@ -19,4 +19,4 @@ menu:
 ---
 Pivar Audio is a musical audio company, specializing in effects for creativity, currently for iOS. The company is a result of me, Jonathan Pivar, lifelong fascination with sound and musical instruments. I served in the Navy as a Sonar Technician. I was fortunate to receive very good training in electronics and this helped me to learn to code after over a decade experimenting with instruments and effects.
 
-The result of my obsession with tones came as Zen Musical Harmonizer, ZMH-1. I engineered it while studying programming. It has four different takes on the classic Pitch Shifting effect. It was an absolute blast to test and sounds pretty cool on guitar. I had many fun jams with the range of possibilities. 
+The result of my obsession with tones came as Zen Musical Harmonizer, ZMH-1. I engineered it while studying programming. It has four different takes on the classic Pitch Shifting effect. It was an absolute blast to test and sounds pretty cool on guitar. It also is a nice way to add polyphony to a mono synthesizer. Lot's of fun there. I had many fun jams with the range of possibilities.
