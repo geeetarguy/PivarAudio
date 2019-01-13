@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2019/01/13/Pivar_Audio_Facebook_BannerPic-1.PNG"
+banner_image: "/uploads/2019/01/13/PivarAudioSiteBanner.PNG"
 layout: landing-page
 heading: Pivar Audio
 partners:
