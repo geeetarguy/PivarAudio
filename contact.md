@@ -14,6 +14,6 @@ menu:
 ---
 ## Contact Information
 
-Jonathan PIvar
+Jonathan Pivar
 
 {% include address.html %}
