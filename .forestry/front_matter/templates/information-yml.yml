@@ -13,11 +13,6 @@ fields:
   type: text
   hidden: false
   default: '6199945688'
-- name: address_1
-  label: Address 1
-  type: text
-  hidden: false
-  default: ''
 - name: city
   label: City
   type: text
