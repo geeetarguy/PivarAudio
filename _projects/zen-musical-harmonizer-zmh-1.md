@@ -1,5 +1,5 @@
 ---
-title: Zen_Musical_Harmonizer_ZMH-1
+title: Zen Musical Harmonizer
 date: 2016-04-20 00:00:00 +0000
 categories: []
 description: Musical Harmonies For Instrument And Vocals
