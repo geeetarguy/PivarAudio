@@ -27,4 +27,3 @@ menu:
     weight: 1
 
 ---
-[http://zenmusicalharmonizer.com](http://zenmusicalharmonizer.com "Zen Musical Harmonizer ZMH-1")
