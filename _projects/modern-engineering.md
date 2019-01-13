@@ -2,8 +2,8 @@
 title: Zen Musical Harmonizer ZMH-1
 date: 2016-04-20 00:00:00 +0000
 categories: []
-description: 'Musical Harmonies For Instrument And Vocals'
-banner_image: "/uploads/2019/01/13/PivarAudioSiteBanner2.PNG"
+description: Musical Harmonies For Instrument And Vocals
+banner_image: "/uploads/2019/01/13/ZMH-1_ProjectPage-1.png"
 sub_heading: Four takes on classic Pitch Shifting effects
 tags: []
 slug: ''
