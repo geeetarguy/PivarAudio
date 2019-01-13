@@ -2,10 +2,10 @@
 title: About
 date: 2017-11-01 03:00:00 +0000
 banner_image: "/uploads/2019/01/13/PivarAudioSiteBanner2.PNG"
-heading: Pivar Audio
-sub_heading: Musical Audio Apps
+heading: ''
+sub_heading: ''
 layout: landing-page
-textline: Zen Musical Harmonizer ZMH-1 for iOS in the App Store.
+textline: Maker of Zen Musical Harmonizer ZMH-1
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
 menu:
