@@ -7,7 +7,6 @@ banner_image: "/uploads/2019/01/13/ZMH-1_ProjectPage-1.png"
 sub_heading: Four takes on classic Pitch Shifting effects
 tags: []
 slug: ''
-published: false
 
 ---
 ## Overview
