@@ -1,18 +1,18 @@
 ---
-title: Murphy Tiernan
+title: Jonathan Pivar
 date: 2017-11-14 10:47:11 +0000
 role:
 - advisor
 - staff
-thumbnail: "/uploads/2017/11/14/andrew-robles-300868.jpg"
-sub_heading: Professor
-email: murphy@belkirkcollege.com
-linkedin: ''
-layout: 'person'
+thumbnail: "/uploads/2019/01/13/jonathanpivar.png"
+sub_heading: Owner/Engineer
+email: jonathanpivar@gmail.com
+linkedin: https://www.linkedin.com/in/jonathan-pivar-44b9005b/
+layout: person
+
 ---
+Jonathan Pivar currently owns and runs Pivar Audio, as well as working as a Software Engineer for the SwitchCase Group in San Diego.
 
-Doctor Murphy Tiernan joined Belkirk in 2015 as a Professor.
+He started coding as a result of classes in Music Technology at UCSD with Miller Puckette and Tom Erbe. From there he went back to school for programming before working in computer science.
 
-He received his Ph.D in Civil Engineering from Stanford in 2003, and also holds a master's degree in Mechanical Engineering.
-
-Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Zen Musical Harmonizer ZMH-1 was the result of years of experimentation in the recording studio and a fascination with audio programming. There are more apps in the works in his spare time. :-)
