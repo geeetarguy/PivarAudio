@@ -7,12 +7,12 @@ fields:
   label: Email
   type: text
   hidden: false
-  default: ''
+  default: jonathanpivar@gmail.com
 - name: phone
   label: Phone
   type: text
   hidden: false
-  default: ''
+  default: '6199945688'
 - name: address_1
   label: Address 1
   type: text
@@ -27,26 +27,26 @@ fields:
   label: City
   type: text
   hidden: false
-  default: ''
+  default: SAN DIEGO
 - name: state
   label: State
   type: text
   hidden: false
-  default: ''
+  default: CA
 - name: postal_code
   label: Postal code
   type: text
   hidden: false
-  default: ''
+  default: '92104'
 - name: country
   label: Country
   type: text
   hidden: false
-  default: ''
+  default: United States
 - name: twitter
   label: Twitter
   type: text
   hidden: false
-  default: ''
+  default: zenharmonizer
 pages:
 - _data/information.yml
