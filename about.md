@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2017-11-01 03:00:00 +0000
-banner_image: "/uploads/2019/01/13/ZMH-Icon_180x180.png"
+banner_image: "/uploads/2019/01/13/PivarAudioSiteBanner.PNG"
 heading: Pivar Audio
 sub_heading: Musical Audio Apps
 layout: landing-page
