@@ -2,8 +2,7 @@
 title: Zen Musical Harmonizer ZMH-1
 date: 2016-04-20 00:00:00 +0000
 categories: []
-description: 'Computer-Based Training for Cogntive Behavioural Therapy: An Addictions
-  Program for Canada'
+description: 'Musical Harmonies For Instrument And Vocals'
 banner_image: "/uploads/2019/01/13/PivarAudioSiteBanner2.PNG"
 sub_heading: Four takes on classic Pitch Shifting effects
 tags: []
