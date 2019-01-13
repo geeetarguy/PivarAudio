@@ -8,6 +8,7 @@ fields:
   label: Title
   config:
     required: true
+  default: Pivar Audio
 - type: textarea
   name: description
   label: Description
