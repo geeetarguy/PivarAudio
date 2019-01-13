@@ -1,23 +1,17 @@
 ---
-title: Modern Engineering Textbook
+title: Zen Musical Harmonizer ZMH-1
 date: 2016-04-20 00:00:00 +0000
 categories: []
 description: 'Computer-Based Training for Cogntive Behavioural Therapy: An Addictions
   Program for Canada'
-banner_image: "/uploads/2018/02/17/bridge3.jpg"
-sub_heading: A post-modern taking on Engineering in the Digital World
-tags:
-- engineering
-- research
+banner_image: "/uploads/2019/01/13/PivarAudioSiteBanner2.PNG"
+sub_heading: Four takes on classic Pitch Shifting effects
+tags: []
 slug: ''
----
 
+---
 ## Overview
 
-Resident Professors Murphy Tiernan and Kelly Brewer have collaborated over the last 3 years with leading professionals in the continental US to develop a modern curriculum for Engineering students.
+Zen Musical Harmonizer ZMH-1 is Pivar Audio's first app in iOS. It has four different ways to harmonizer: Playable, Shifter, Pseudo-Smart and Octave. 
 
-## Editions
-
-* Edition One - 2016
-
-* Edition Two - 2017
+It is primarily designed for guitar, but has many creative uses including a lot of fun with synthesizers, as well as interesting effects on vocals. Use it with Inter-App Audio and Audiobus.
