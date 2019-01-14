@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2019/01/13/PivarAudioSiteBanner2.PNG"
+banner_image: "/uploads/2019/01/14/concert-896786__480.jpg"
 layout: landing-page
 heading: Pivar Audio
 partners:
