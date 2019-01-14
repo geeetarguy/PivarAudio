@@ -15,4 +15,4 @@ Zen Musical Harmonizer ZMH-1 is Pivar Audio's first app in iOS. It has four diff
 
 It is primarily designed for guitar, but has many creative uses including a lot of fun with synthesizers, as well as interesting effects on vocals. Use it with Inter-App Audio and Audiobus.
 
-    ![](/uploads/2019/01/13/ZMH-Icon_180x180.png)     ![](/uploads/2019/01/14/Available_on_the_App_Store_(black).png)
+![](/uploads/2019/01/13/ZMH-Icon_180x180.png)          ![](/uploads/2019/01/14/Available_on_the_App_Store_(black).png)
