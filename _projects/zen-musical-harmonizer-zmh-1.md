@@ -11,7 +11,7 @@ slug: ''
 ---
 ## Overview
 
-Zen Musical Harmonizer ZMH-1 is Pivar Audio's first app in iOS. It has four different ways to harmonizer: Playable, Shifter, Pseudo-Smart and Octave.
+Zen Musical Harmonizer ZMH-1 is Pivar Audio's first app in iOS. It has four different ways to harmonize: Playable, Shifter, Pseudo-Smart and Octave.
 
 It is primarily designed for guitar, but has many creative uses including a lot of fun with synthesizers, as well as interesting effects on vocals. Use it with Inter-App Audio and Audiobus.
 
