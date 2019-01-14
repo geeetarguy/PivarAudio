@@ -13,7 +13,7 @@ services:
   icon: "/uploads/2019/01/13/ZMH-Icon_180x180.png"
 sub_heading: Musical Audio Apps
 textline: |-
-  Pivar Audio
+  Pivar Audio:
 
   Maker of Zen Musical Harmonizer ZMH-1
 hero_button:
