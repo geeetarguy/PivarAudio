@@ -5,7 +5,7 @@ related_posts: []
 sub_heading: Audio Effects On The App Store
 tags: []
 layout: post
-banner_image: ''
+banner_image: "/uploads/2019/01/14/telecaster-2089810__480.jpg"
 
 ---
 Welcome to the Pivar Audio Site!
