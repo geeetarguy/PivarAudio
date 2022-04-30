@@ -8,6 +8,10 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
+- heading: Geeetar Synth
+  description: Guitar Synth and Effects Unit
+  icon: "/uploads/2019/01/13/GeeetarSynth-Icon_180x180.png"
+
 - heading: Zen Musical Harmonizer ZMH-1
   description: Four takes on the classic Pitch Shifting effect
   icon: "/uploads/2019/01/13/ZMH-Icon_180x180.png"
@@ -15,7 +19,7 @@ sub_heading: Musical Audio Apps
 textline: |-
   Pivar Audio:
 
-  Maker of Zen Musical Harmonizer ZMH-1
+  Maker of Geeetar Synth and Zen Musical Harmonizer ZMH-1
 hero_button:
   text: Learn more
   href: "/about"
