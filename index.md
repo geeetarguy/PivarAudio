@@ -11,10 +11,12 @@ services:
 - heading: Geeetar Synth
   description: Guitar Synth and Effects Unit
   icon: "/uploads/2019/01/13/GeeetarSynth-Icon_180x180.png"
+  href: "www.geeetarsynth.com"
 
 - heading: Zen Musical Harmonizer ZMH-1
   description: Four takes on the classic Pitch Shifting effect
   icon: "/uploads/2019/01/13/ZMH-Icon_180x180.png"
+  href: "www.zenmusicalharmonizer.com"
 
 sub_heading: Musical Audio Apps
 textline: |-
