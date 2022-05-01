@@ -3,7 +3,7 @@ title: Geeetar Synth
 date: 2022-04-30 00:00:00 +0000
 categories: []
 description: Guitar Synthesizer and Effects for iPad
-banner_image: "/uploads/2019/01/16/GeeetarSynth_ProjectPage.PNG"
+banner_image: "/uploads/2019/01/16/GeeetarSynth-ProjectPage.PNG"
 sub_heading: Monophonic Guitar Synth and Effects
 tags: []
 slug: ''
